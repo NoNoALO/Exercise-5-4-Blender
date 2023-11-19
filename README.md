@@ -1,4 +1,4 @@
-# Exercise 5.4—Create a Model
+# Exercise 5.4—Render
 
 Exercise for MSCH-C220
 
