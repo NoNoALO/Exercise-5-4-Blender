@@ -1,4 +1,4 @@
-# Exercise 5.4—Render
+# Exercise 5.4—Blender
 
 Exercise for MSCH-C220
 
